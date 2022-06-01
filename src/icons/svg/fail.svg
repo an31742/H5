@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>椭圆形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="76" cy="76" r="76"></circle>
+        <filter x="-28.3%" y="-19.1%" width="156.6%" height="156.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="14" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.980392157   0 0 0 0 0.317647059   0 0 0 0 0.317647059  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="社区端h5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="审核失败" transform="translate(-275.000000, -410.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="750" height="1624"></rect>
+            <g id="背景色" fill="#F6F8FA" opacity="0.800000012">
+                <rect id="矩形" x="0" y="0" width="750" height="1624"></rect>
+            </g>
+            <rect id="矩形" fill="#FFFFFF" x="2.84217094e-13" y="204" width="750" height="1226"></rect>
+            <g id="椭圆形" transform="translate(299.000000, 420.000000)">
+                <g>
+                    <g>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FA5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M103.707221,48.7728812 C105.685878,50.7515376 105.685878,53.9595735 103.707221,55.9382299 L83.4058889,76.2398889 L103.707221,96.5418726 C105.685878,98.520529 105.685878,101.728565 103.707221,103.707221 C101.728565,105.685878 98.520529,105.685878 96.5418726,103.707221 L76.2398889,83.4058889 L55.9382299,103.707221 C53.9595735,105.685878 50.7515376,105.685878 48.7728812,103.707221 C46.7942248,101.728565 46.7942248,98.520529 48.7728812,96.5418726 L69.0738889,76.2398889 L48.7728812,55.9382299 C46.7942248,53.9595735 46.7942248,50.7515376 48.7728812,48.7728812 C50.7515376,46.7942248 53.9595735,46.7942248 55.9382299,48.7728812 L76.2398889,69.0738889 L96.5418726,48.7728812 C98.520529,46.7942248 101.728565,46.7942248 103.707221,48.7728812 Z" id="形状结合" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

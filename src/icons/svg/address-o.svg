@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="35px" viewBox="0 0 29 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>编组 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="社区端h5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="访客记录" transform="translate(-33.000000, -367.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="750" height="1624"></rect>
+            <g id="背景色" fill="#F6F8FA" opacity="0.800000012">
+                <rect id="矩形" x="0" y="0" width="750" height="1624"></rect>
+            </g>
+            <g id="编组-4" transform="translate(0.000000, 204.000000)">
+                <rect id="Rectangle备份" fill="#FFFFFF" x="0" y="80" width="750" height="211"></rect>
+                <g id="编组-2" transform="translate(35.000000, 165.000000)" stroke="#BC8D58" stroke-width="2">
+                    <path d="M12.5018637,-1 C8.77755258,-1 5.39857901,0.542287585 2.95164602,3.03656707 C0.512240517,5.52317342 -1,8.95609548 -1,12.7437663 C-1,15.8025894 0.558641555,19.0599022 2.65719981,21.9629895 C6.4710199,27.2389224 11.8976913,31.0333412 12.4981363,31.0333412 C13.0985788,31.0333412 18.5268523,27.2387716 22.3417501,21.9629214 C24.4409273,19.0598437 26,15.8025553 26,12.7437663 C26,8.76501831 24.5698491,5.33923051 22.1803019,2.90272075 C19.7843599,0.459690491 16.4149492,-1 12.5018637,-1 Z" id="形状" fill-rule="nonzero"></path>
+                    <circle id="椭圆形" cx="12.5" cy="11.5" r="5.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

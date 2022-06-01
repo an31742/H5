@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>扫码</title>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-652.000000, -156.000000)" id="扫码">
+            <g transform="translate(654.000000, 158.000000)">
+                <path d="M27.5,0 L30,0 L33,0 C36.8659932,0 40,3.13400675 40,7 L40,10.2500015 C40,10.7659869 40,11.5159864 40,12.5 M40,27.5 L40,30 L40,33 C40,36.8659932 36.8659932,40 33,40 L30,40 L27.5,40 M12.5,40 L10,40 L7,40 C3.13400675,40 0,36.8659932 0,33 L0,30 L0,27.5 M0,12.5 L0,10 L0,7 C0,3.13400675 3.13400675,0 7,0 L10,0 L12.5,0" id="形状" stroke="#333333" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M5,20 C5,18.8954305 5.8954305,18 7,18 L33,18 C34.1045695,18 35,18.8954305 35,20 C35,21.1045695 34.1045695,22 33,22 L7,22 C5.8954305,22 5,21.1045695 5,20 Z" id="路径" fill="#E1AA6C" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

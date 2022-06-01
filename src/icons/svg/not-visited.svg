@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="112px" viewBox="0 0 142 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>编组 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="员工端h5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="访客二维码验证-未到访" transform="translate(-554.000000, -406.000000)">
+            <g id="编组-5" transform="translate(625.000000, 462.000000) rotate(-330.000000) translate(-625.000000, -462.000000) translate(557.000000, 434.000000)">
+                <rect id="矩形" stroke="#01B400" stroke-width="4" x="2" y="2" width="132" height="52" rx="6"></rect>
+                <text id="未到访" font-family="PingFangSC-Regular, PingFang SC" font-size="32" font-weight="normal" fill="#01B400">
+                    <tspan x="20" y="39.5">未到访</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

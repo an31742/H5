@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>椭圆形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="76" cy="76" r="76"></circle>
+        <filter x="-28.3%" y="-19.1%" width="156.6%" height="156.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="14" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.447058824   0 0 0 0 0.788235294   0 0 0 0 0.215686275  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="社区端h5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="审核通过" transform="translate(-275.000000, -410.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="750" height="1624"></rect>
+            <g id="背景色" fill="#F6F8FA" opacity="0.800000012">
+                <rect id="矩形" x="0" y="0" width="750" height="1624"></rect>
+            </g>
+            <g id="椭圆形" transform="translate(285.000000, 406.000000)">
+                <g>
+                    <circle fill="#44CAFF" cx="90" cy="90" r="90"></circle>
+                    <path d="M90,36 C93.3137085,36 96,38.6862915 96,42 L96,87.515 L129.091883,120.606602 C131.435029,122.949747 131.435029,126.748737 129.091883,129.091883 C126.748737,131.435029 122.949747,131.435029 120.606602,129.091883 L86.6654762,95.1507576 C86.5134164,94.9986978 86.3712246,94.8405068 86.2389008,94.6769803 C84.8743365,93.5767909 84,91.8905015 84,90 L84,42 C84,38.6862915 86.6862915,36 90,36 Z" id="形状结合" fill="#FFFFFF"></path>
+                </g>
+            </g>
+            <rect id="矩形" fill="#FFFFFF" x="4.54747351e-13" y="204" width="750" height="1226"></rect>
+            <g id="椭圆形" transform="translate(299.000000, 420.000000)">
+                <g>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#72C937" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M109.482574,52.4637651 L109.516497,52.4976886 L109.516497,52.4976886 C111.499991,54.5001489 111.499991,57.7267088 109.516497,59.7291691 L70.120082,99.5023114 C68.1608139,101.480315 64.9690245,101.495503 62.9910209,99.5362349 L62.9570974,99.5023114 L62.9570974,99.5023114 C62.8037691,99.3475169 62.6622935,99.1854077 62.5326705,99.0171147 L42.4835027,78.774524 C40.5000095,76.7720637 40.5000095,73.5455039 42.4835027,71.5430436 C44.4427708,69.56504 47.6345602,69.549852 49.6125638,71.5091201 L49.6464873,71.5430436 L49.6464873,71.5430436 L66.5668828,88.6261926 L102.353513,52.4976886 C104.312781,50.5196851 107.50457,50.504497 109.482574,52.4637651 Z" id="形状结合" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

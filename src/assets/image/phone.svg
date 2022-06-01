@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 15</title>
+    <g id="员工端-录入人脸" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="门禁管理详情页-首次录入" transform="translate(-100.000000, -225.000000)">
+            <rect id="BGffffff" fill="#FFFFFF" x="0" y="0" width="750" height="1334"></rect>
+            <g id="编组-6" transform="translate(100.000000, 225.000000)">
+                <rect id="矩形" x="0" y="0" width="140" height="140"></rect>
+            </g>
+            <g id="编组-9" transform="translate(137.000000, 247.000000)">
+                <rect id="矩形备份-6" stroke="#EBC38D" stroke-width="8" fill="#FFFAF2" opacity="0.220793225" x="1.77096774" y="2.42272693" width="62.716129" height="85.3" rx="3"></rect>
+                <rect id="矩形" fill="#FBF2E6" x="2" y="70" width="63.0296686" height="22.0594524"></rect>
+                <line x1="0.5" y1="68.5" x2="65.5" y2="68.5" id="直线" stroke="#EBC38D" stroke-width="4" stroke-linecap="square"></line>
+                <line x1="28.5" y1="79.5" x2="38.5" y2="79.5" id="直线-2" stroke="#EBC38D" stroke-width="4" stroke-linecap="round"></line>
+                <rect id="矩形" stroke="#EBC38D" stroke-width="4" x="0" y="0" width="66" height="93" rx="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

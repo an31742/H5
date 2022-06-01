@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="47px" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>corner</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="套餐金额选中" transform="translate(-169.000000, -41.000000)">
+            <path d="M216,41 L216,80 C216,84.418278 212.418278,88 208,88 L169,88 L216,41 Z" id="形状结合" fill="#e1aa6c"></path>
+            <path d="M195.851701,78.3506281 L190.665305,73.2240169 L189,74.8701256 L194.726907,80.5310177 C195.350212,81.1471373 196.353189,81.1471373 196.976494,80.5310177 L209,68.6461087 L209,68.6461087 L207.334695,67 L195.851701,78.3506281 Z" id="Rectangle-47" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

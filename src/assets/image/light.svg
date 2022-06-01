@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 16</title>
+    <g id="员工端-录入人脸" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="门禁管理详情页-首次录入" transform="translate(-100.000000, -465.000000)">
+            <rect id="BGffffff" fill="#FFFFFF" x="0" y="0" width="750" height="1334"></rect>
+            <g id="编组-7" transform="translate(100.000000, 465.000000)">
+                <rect id="矩形备份-15" x="0" y="0" width="140" height="140"></rect>
+            </g>
+            <g id="编组-11" transform="translate(137.000000, 487.500000)">
+                <rect id="矩形备份-6" stroke="#EBC38D" stroke-width="8" fill="#FFFAF2" opacity="0.220793225" x="3" y="3" width="60" height="60" rx="30"></rect>
+                <rect id="矩形" fill="#FBF2E6" x="20.5" y="75" width="25" height="9"></rect>
+                <line x1="20.5" y1="74.8459164" x2="45.8096029" y2="74.8459164" id="直线" stroke="#EBC38D" stroke-width="4" stroke-linecap="round"></line>
+                <line x1="32.8796284" y1="72.9162883" x2="33.1203716" y2="42.9172542" id="直线备份" stroke="#EBC38D" stroke-width="4" stroke-linecap="round"></line>
+                <g id="编组-10" transform="translate(26.092904, 35.441694)" stroke="#EBC38D" stroke-linecap="round" stroke-width="4">
+                    <line x1="6.96532352" y1="7.01409643" x2="14.0929074" y2="-3.96212798e-14" id="直线备份-2"></line>
+                    <line x1="-2.55795385e-13" y1="7.01409643" x2="7.12758383" y2="-3.96212798e-14" id="直线备份-3" transform="translate(3.563792, 3.507048) scale(-1, 1) translate(-3.563792, -3.507048) "></line>
+                </g>
+                <line x1="28" y1="94" x2="38" y2="94" id="直线-2" stroke="#EBC38D" stroke-width="4" stroke-linecap="round"></line>
+                <rect id="矩形" stroke="#EBC38D" stroke-width="4" x="0" y="0" width="66" height="66" rx="33"></rect>
+                <path d="M46,63.3056438 L46,78.3021123 C46,82.1681056 42.8659932,85.3021123 39,85.3021123 L27,85.3021123 C23.1340068,85.3021123 20,82.1681056 20,78.3021123 L20,63.3056438" id="路径" stroke="#EBC38D" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

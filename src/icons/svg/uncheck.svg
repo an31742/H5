@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>未选中</title>
+    <defs>
+        <path d="M0,0 L58,0 L58,50 C58,54.418278 54.418278,58 50,58 L0,58 L0,58 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="H5-员工端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的消息备份-7" transform="translate(-668.000000, -1494.000000)">
+            <g id="编组备份" transform="translate(668.000000, 1494.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EAC9A5" opacity="0" xlink:href="#path-1"></use>
+                <polygon id="路径-12" fill="#D6D6D6" mask="url(#mask-2)" points="58 0 58 58 0 58"></polygon>
+                <path d="M48.0119882,33.7079698 C48.9448777,32.8151789 50.4124056,32.8609529 51.2898036,33.8102089 C52.1123641,34.7001364 52.1242367,36.0682048 51.3538304,36.9713741 L51.1893272,37.1455298 L37.5946614,50.1558523 C36.7389688,50.9747644 35.4290037,51.0063554 34.5385523,50.2642492 L34.3663144,50.1055161 L28.496455,44.1326767 C27.5908862,43.2112206 27.5908862,41.7172452 28.496455,40.7957891 C29.3454259,39.9319241 30.6889119,39.8779325 31.5996971,40.6338144 L31.7758101,40.7957891 L36.0555003,45.1508956 L48.0119882,33.7079698 Z" id="Path-6" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

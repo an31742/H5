@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径 46</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.737602 0 0 0 0 0.551957 0 0 0 0 0.343671 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="员工端-录入人脸" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选择员工" transform="translate(-709.000000, -255.000000)">
+            <g id="编组-2" transform="translate(0.000000, 203.000000)">
+                <rect id="top-bg" fill="#FFFFFF" x="0" y="0" width="750" height="108"></rect>
+                <g filter="url(#filter-1)" id="编组">
+                    <g transform="translate(573.000000, 35.000000)">
+                        <polygon id="路径-46" fill="#282828" points="136 17 148 17 142 25"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

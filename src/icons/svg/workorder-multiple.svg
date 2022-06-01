@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>多选</title>
+    <g id="离线工单21/10/14" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的待办" transform="translate(-585.000000, -205.000000)">
+            <g id="多选" transform="translate(585.000000, 205.000000)">
+                <rect id="矩形" fill="#BC8D58" opacity="0" x="0" y="0" width="40" height="40"></rect>
+                <g id="编组-6" transform="translate(8.000000, 5.500000)" stroke="#BC8D58" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                    <polyline id="路径" transform="translate(15.215319, 11.019113) rotate(-45.000000) translate(-15.215319, -11.019113) " points="23.2153187 14.2615938 7.21531872 14.2615938 7.21531872 7.7766313"></polyline>
+                    <path d="M24,16.972795 L24,26 C24,27.6568542 22.6568542,29 21,29 L3,29 C1.34314575,29 0,27.6568542 0,26 L0,3 C0,1.34314575 1.34314575,0 3,0 L17,0" id="路径"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

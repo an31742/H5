@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="26px" viewBox="0 0 15 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>图标颜色</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.2669006,23.8198052 L12.1455802,25.9411255 L0.587786143,14.3833314 C-0.192464454,13.6030808 -0.190605004,12.3361852 0.587786143,11.5577941 L12.1455802,1.91846539e-13 L14.2669006,2.12132034 L3.41765815,12.9705627 L14.2669006,23.8198052 Z" id="path-1"></path>
+    </defs>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标颜色">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use fill-opacity="0.3" fill="#000000" transform="translate(7.133450, 12.970563) rotate(-180.000000) translate(-7.133450, -12.970563) " xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

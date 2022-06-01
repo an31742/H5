@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <path d="M13.1365444,22.689449 C13.7608229,23.3137274 13.7533881,24.3333176 13.1317173,24.9549884 L13.2807634,24.8059423 C12.6538191,25.4328867 11.6371188,25.4326641 11.0172178,24.8127631 L0.587786143,14.3833314 C-0.192464454,13.6030808 -0.190605004,12.3361852 0.587786143,11.5577941 L11.0172178,1.12836239 C11.6403952,0.505185049 12.6590927,0.513512482 13.2807634,1.13518322 L13.1317173,0.986137126 C13.7586617,1.61308151 13.7581708,2.63005011 13.1365444,3.25167653 L3.41765815,12.9705627 L13.1365444,22.689449 Z" id="path-1"></path>
+    </defs>
+    <g id="考勤统计-查看日/周/月" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="考勤打卡-当日休息" transform="translate(-350.000000, -787.000000)">
+            <g id="编组-2" transform="translate(20.000000, 787.000000)">
+                <g id="编组" transform="translate(330.336154, 0.000000)">
+                    <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="50" height="50"></rect>
+                    <g transform="translate(16.663846, 12.000000)" id="图标颜色">
+                        <g transform="translate(7.500000, 13.000000) rotate(-270.000000) translate(-7.500000, -13.000000) ">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use fill="#CDCDCD" transform="translate(7.133450, 12.970563) rotate(-180.000000) translate(-7.133450, -12.970563) " xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

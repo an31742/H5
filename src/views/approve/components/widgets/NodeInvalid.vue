@@ -1,0 +1,40 @@
+<template>
+  <DescArea>
+    <div class="linkUsers">
+      <PersonItem :person="fromUser"></PersonItem>
+      <span>作废审批</span>
+      <OptInfo :item="item"></OptInfo>
+    </div>
+    <div v-if="item.extra.content" class="detail">
+      理由：{{ item.extra.content }}
+    </div>
+  </DescArea>
+</template>
+
+<script>
+import PersonItem from './PersonItem'
+import DescArea from './DescArea'
+import OptInfo from './OptInfo'
+
+export default {
+  name: 'NodeInvalid',
+  components: {
+    PersonItem,
+    DescArea,
+    OptInfo
+  },
+  props: {
+    item: {
+      type: Object,
+      default () {
+        return {}
+      }
+    }
+  },
+  computed: {
+    fromUser () {
+      return this.item.extra.from_user
+    }
+  }
+}
+</script>

@@ -1,0 +1,34 @@
+
+.btn-c{
+    height: 72px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn-c-2{
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .button {
+    display: block;
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid #E1AA6C;;
+    color: #E1AA6C;
+    background: #fff;
+  
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+  
+  }
+
+
+  .button-yellow {
+    border: none;
+    color: #fff;
+    background: linear-gradient(175deg, #F2D5A5 0%, #E1AA6C 100%);
+  }

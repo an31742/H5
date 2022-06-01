@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="15px" viewBox="0 0 27 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>下拉箭头</title>
+    <defs>
+        <path d="M20.6334503,24.3492424 L18.5121299,26.4705627 L6.95433587,14.9127687 C6.17408527,14.1325181 6.17594472,12.8656225 6.95433587,12.0872313 L18.5121299,0.529437252 L20.6334503,2.6507576 L9.78420787,13.5 L20.6334503,24.3492424 Z" id="path-1"></path>
+    </defs>
+    <g id="全部" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="邀请入住备份" transform="translate(-656.000000, -1165.000000)">
+            <g id="编组" transform="translate(656.000000, 1159.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="图标颜色" fill="#666666" transform="translate(13.500000, 13.500000) rotate(-90.000000) translate(-13.500000, -13.500000) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

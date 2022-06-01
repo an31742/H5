@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF9797" offset="0%"></stop>
+            <stop stop-color="#FA5151" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="社区端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-429.000000, -278.000000)">
+            <g id="背景色" fill="#F6F8FA">
+                <rect id="矩形" x="0" y="0" width="750" height="1624"></rect>
+            </g>
+            <g id="编组" transform="translate(0.000000, 242.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="750" height="372"></rect>
+                <g id="矩形" transform="translate(375.000000, 0.000000)">
+                    <rect fill="#FFFFFF" fill-rule="evenodd" x="0" y="0" width="186" height="186"></rect>
+                    <g id="icon" transform="translate(54.000000, 36.000000)" fill-rule="evenodd">
+                        <g id="报事报修">
+                            <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="78" height="78" rx="10"></rect>
+                            <g id="编组" stroke-width="1" transform="translate(39.500000, 40.207107) rotate(-45.000000) translate(-39.500000, -40.207107) translate(15.000000, 16.707107)" stroke="#FFFFFF">
+                                <path d="M28.4800381,0.353566356 C32.946474,1.91961642 36.1464466,6.14495437 36.1464466,11.11166 C36.1464466,15.9482989 33.1118796,20.0818911 28.8282953,21.741283 L28.8282648,42.1717352 C28.8282648,44.4812896 26.956001,46.3535534 24.6464466,46.3535534 C22.3368922,46.3535534 20.4646284,44.4812896 20.4646284,42.1717352 L20.4645979,21.741283 C16.1810136,20.0818911 13.1464466,15.9482989 13.1464466,11.11166 C13.1464466,6.14495437 16.3464192,1.91961642 20.8128551,0.353566356 L20.8131133,7.82534799 C20.8131133,8.87970978 21.6289911,9.74351311 22.6638509,9.81986225 L22.8131133,9.82534799 L26.4797799,9.82534799 C27.5341417,9.82534799 28.3979451,9.0094702 28.4742942,7.97461033 L28.4797799,7.82534799 L28.4800381,0.353566356 Z" id="形状结合" stroke-width="2"></path>
+                                <rect id="矩形" stroke-width="2" x="34.9705627" y="19.2928932" width="14" height="6" rx="3"></rect>
+                                <line x1="19.6507576" y1="22.2928932" x2="0.650757595" y2="22.2928932" id="路径-3备份" stroke-width="3" stroke-linecap="round"></line>
+                                <line x1="34.5710678" y1="23" x2="29.5710678" y2="23" id="路径-3" stroke-width="3" stroke-linecap="round"></line>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="文字" transform="translate(49.000000, 130.000000)" fill="#333333" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal">
+                        <g id="报事报修">
+                            <text>
+                                <tspan x="-4" y="23">报事报修</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="矩形备份-2" transform="translate(375.000000, 0.000000)">
+                    <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="186" height="186"></rect>
+                    <g id="icon" transform="translate(54.000000, 36.000000)">
+                        <g id="报事报修">
+                            <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="78" height="78" rx="10"></rect>
+                            <g id="编组" stroke-width="1" transform="translate(39.500000, 40.207107) rotate(-45.000000) translate(-39.500000, -40.207107) translate(15.000000, 16.707107)" stroke="#FFFFFF">
+                                <path d="M28.4800381,0.353566356 C32.946474,1.91961642 36.1464466,6.14495437 36.1464466,11.11166 C36.1464466,15.9482989 33.1118796,20.0818911 28.8282953,21.741283 L28.8282648,42.1717352 C28.8282648,44.4812896 26.956001,46.3535534 24.6464466,46.3535534 C22.3368922,46.3535534 20.4646284,44.4812896 20.4646284,42.1717352 L20.4645979,21.741283 C16.1810136,20.0818911 13.1464466,15.9482989 13.1464466,11.11166 C13.1464466,6.14495437 16.3464192,1.91961642 20.8128551,0.353566356 L20.8131133,7.82534799 C20.8131133,8.87970978 21.6289911,9.74351311 22.6638509,9.81986225 L22.8131133,9.82534799 L26.4797799,9.82534799 C27.5341417,9.82534799 28.3979451,9.0094702 28.4742942,7.97461033 L28.4797799,7.82534799 L28.4800381,0.353566356 Z" id="形状结合" stroke-width="2"></path>
+                                <rect id="矩形" stroke-width="2" x="34.9705627" y="19.2928932" width="14" height="6" rx="3"></rect>
+                                <line x1="19.6507576" y1="22.2928932" x2="0.650757595" y2="22.2928932" id="路径-3备份" stroke-width="3" stroke-linecap="round"></line>
+                                <line x1="34.5710678" y1="23" x2="29.5710678" y2="23" id="路径-3" stroke-width="3" stroke-linecap="round"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
